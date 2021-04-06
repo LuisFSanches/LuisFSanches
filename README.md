@@ -1,7 +1,7 @@
 ### Hi there 👋- I'm Luis
 <br />
-<br />
-My name is **Luis Felipe** I'm a brazilian project engineer, currently studying to become a **Developer**
+
+My name is <strong>Luis Felipe</strong> I'm a brazilian project engineer, currently studying to become a <strong>Developer</strong>
 <br />
 **About Me:**
 
