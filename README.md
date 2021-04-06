@@ -2,7 +2,6 @@
 <br />
 
 My name is <strong>Luis Felipe</strong> I'm a brazilian project engineer, currently studying to become a <strong>Developer</strong>
-
 <br />
 <h3>About Me:</h3>
 
