@@ -6,6 +6,7 @@ My name is **Luis Felipe** I'm a brazilian project engineer, currently studying 
 **About Me:**
 
  <img align="right" alt="GIF" width="250px" src="https://i.pinimg.com/originals/89/22/8f/89228f17df8a29b3473ce3caf687e264.gif" />
+ 
 - :nut_and_bolt: I’m currently working as a project engineer.
 - :computer: I have been studying JavaScript, NodeJs, TypeScript, React and React Native.
 - :briefcase: I’m looking for my first job as a developer.
