@@ -1,11 +1,11 @@
 ### Hi there 👋- I'm Luis
 <br />
 
-My name is <strong>Luis Felipe</strong> I'm a brazilian project engineer, currently studying to become a <strong>Developer</strong>
+My name is <strong>Luis Felipe</strong> I'm a brazilian project engineer, currently studying to become a <strong>Developer</strong>.
 <br />
 <h3>About Me:</h3>
 
- <img align="right" alt="GIF" width="350px" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif" />
+ <img align="right" alt="GIF" width="330px" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif" />
  
 - :nut_and_bolt: I’m currently working as a project engineer.
 - :computer: I have been studying JavaScript, NodeJs, TypeScript, React and React Native.
