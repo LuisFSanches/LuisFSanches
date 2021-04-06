@@ -1,4 +1,8 @@
 ### Hi there 👋-
+
+ <img align="right" alt="GIF" src="https://i.pinimg.com/originals/89/22/8f/89228f17df8a29b3473ce3caf687e264.gif" />
+ 
+ 
 ![Luis Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisFSanches&show_icons=true&theme=vue)
 
 <!--
