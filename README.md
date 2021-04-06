@@ -2,17 +2,18 @@
 <br />
 
 My name is <strong>Luis Felipe</strong> I'm a brazilian project engineer, currently studying to become a <strong>Developer</strong>
-<br />
-**About Me:**
 
- <img align="right" alt="GIF" width="300px" src="https://i.pinimg.com/originals/89/22/8f/89228f17df8a29b3473ce3caf687e264.gif" />
+<br />
+<h3>About Me:</h3>
+
+ <img align="right" alt="GIF" width="350px" src="https://i.pinimg.com/originals/89/22/8f/89228f17df8a29b3473ce3caf687e264.gif" />
  
 - :nut_and_bolt: I’m currently working as a project engineer.
 - :computer: I have been studying JavaScript, NodeJs, TypeScript, React and React Native.
 - :dart: I’m looking for my first job as a developer.
 - 📫 How to reach me: luissanches.eng@gmail.com
 
-**Languages and tools:**
+<h3>Languages and tools:</h3>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
