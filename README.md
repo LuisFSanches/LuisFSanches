@@ -7,9 +7,8 @@ My name is <strong>Luis Felipe</strong>, I'm a brazilian project engineer, curre
 
  <img align="right" alt="GIF" width="330px" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif" />
 
-- :nut_and_bolt: I’m currently working as a project engineer.
-- :computer: I have been studying JavaScript, NodeJs, TypeScript, React and React Native.
-- :dart: I’m looking for my first job as a developer.
+- :nut_and_bolt: I have worked for three years as a Mechanical Project Engineer and decided to change my career.
+- :computer: I'm currently working as a FullStack Web Developer.
 - 📫 How to reach me: luissanches.eng@gmail.com
 
 <h3>Languages and tools:</h3>
