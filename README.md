@@ -1,7 +1,7 @@
 ### Hi 👋- I'm Luis!
 <br />
 
-My name is <strong>Luis Felipe</strong>, I'm a brazilian FullStack Web Developer.
+My name is <strong>Luis Felipe</strong>, I'm a brazilian Full Stack Web Developer.
 <br />
 <h3>About Me:</h3>
 
